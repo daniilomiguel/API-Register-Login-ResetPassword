@@ -1,0 +1,26 @@
+{
+  "name": "api-auth-pokestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.1",
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^5.13.5",
+    "nodemailer": "^6.6.3",
+    "uid": "^2.0.0",
+    "uuid": "^8.3.2"
+  }
+}
